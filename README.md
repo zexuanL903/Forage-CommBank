@@ -1,5 +1,6 @@
 # Forage-CommBank
 This repository is for a Commonwealth Bank Virtual internship Program on Forage
+
 In the simulation I:
 - Completed a job simulation involving web development and cybersecurity for the Commonwealth Bank Software Engineering Program.
 - Developed proficiency in HTML and CSS, leveraging these languages to create and style a responsive web page adhering to specific branding guidelines.
